@@ -54,7 +54,7 @@ Atualmente criando soluções próprias como:
 ## 🐍 Contributions
 
 <p align="center">
-  <img src="https://github.com/eduxsn/eduxsn/blob/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/eduxsn/eduxsn/output/snake.svg" />
 </p>
 
 ---
